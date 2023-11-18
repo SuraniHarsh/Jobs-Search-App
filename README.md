@@ -1,14 +1,26 @@
-# Expo Router Example
+# Jobs-Search-App
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+## Installation
 
-## 🚀 How to use
+To install and run this project locally, follow these steps:
 
-```sh
-npx create-expo-app -e with-router
+1. Clone the repository:
+
+```bash
+git clone https://github.com/SuraniHarsh/Jobs-Search-App.git
+cd Jobs-Search-App
 ```
 
-## 📝 Notes
+2. Install dependencies:
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+```bash
+npm install
+```
+
+## Usage
+
+To run the project.
+
+```bash
+npm start
+```
